@@ -1,0 +1,33 @@
+.not-found-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 24px;
+}
+
+.not-found-content {
+  text-align: center;
+  color: white;
+}
+
+.error-code {
+  font-size: 120px;
+  font-weight: 900;
+  margin: 0;
+  line-height: 1;
+  text-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.error-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 16px 0 8px 0;
+}
+
+.error-message {
+  font-size: 18px;
+  opacity: 0.9;
+  margin: 0 0 32px 0;
+}

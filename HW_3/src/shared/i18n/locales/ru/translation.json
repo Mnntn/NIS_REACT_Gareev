@@ -1,0 +1,91 @@
+{
+  "auth": {
+    "login": "Логин",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "username": "Имя пользователя",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "loginButton": "Войти",
+    "registerButton": "Зарегистрироваться",
+    "noAccount": "Нет аккаунта?",
+    "haveAccount": "Уже есть аккаунт?",
+    "loginPlaceholder": "Введите ваш логин",
+    "passwordPlaceholder": "Введите ваш пароль",
+    "emailPlaceholder": "Введите ваш email",
+    "firstNamePlaceholder": "Введите ваше имя",
+    "lastNamePlaceholder": "Введите вашу фамилию",
+    "demoNotice": "Это демонстрационное приложение.",
+    "demoNoticeInfo": "Регистрация недоступна. Пожалуйста, используйте страницу входа с тестовыми данными:",
+    "demoModeTitle": "Демо режим - Заглушка регистрации"
+  },
+  "nav": {
+    "dashboard": "Главная",
+    "products": "Продукты",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "logout": "Выйти"
+  },
+  "dashboard": {
+    "title": "Главная",
+    "welcome": "С возвращением",
+    "totalProducts": "Всего продуктов",
+    "categories": "Категории",
+    "recentOrders": "Последние заказы"
+  },
+  "products": {
+    "title": "Продукты",
+    "search": "Поиск продуктов...",
+    "noProducts": "Продукты не найдены",
+    "price": "Цена",
+    "rating": "Рейтинг",
+    "stock": "На складе",
+    "category": "Категория",
+    "brand": "Бренд",
+    "description": "Описание",
+    "viewDetails": "Подробнее",
+    "backToProducts": "Назад к продуктам"
+  },
+  "profile": {
+    "title": "Профиль",
+    "email": "Электронная почта",
+    "username": "Имя пользователя",
+    "name": "Имя",
+    "gender": "Пол"
+  },
+  "settings": {
+    "title": "Настройки",
+    "language": "Язык",
+    "theme": "Тема",
+    "pageSize": "Продуктов на странице",
+    "light": "Светлая",
+    "dark": "Темная"
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "retry": "Повторить",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "confirm": "Подтвердить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "search": "Поиск",
+    "page": "Страница",
+    "of": "из",
+    "previous": "Назад",
+    "next": "Вперед"
+  },
+  "errors": {
+    "required": "Это поле обязательно",
+    "invalidEmail": "Неверный адрес почты",
+    "invalidCredentials": "Неверные учетные данные",
+    "networkError": "Ошибка сети. Попробуйте снова.",
+    "notFound": "Страница не найдена",
+    "unauthorized": "Пожалуйста, войдите для продолжения",
+    "notFoundMessage": "Страница, которую вы ищете, не существует.",
+    "goToDashboard": "Перейти на главную"
+  }
+}

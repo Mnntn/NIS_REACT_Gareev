@@ -1,0 +1,126 @@
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.auth-container {
+  width: 100%;
+  max-width: 420px;
+  padding: 24px;
+}
+
+.auth-card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+}
+
+.auth-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0 0 8px 0;
+  text-align: center;
+}
+
+.auth-subtitle {
+  font-size: 14px;
+  color: #6b7280;
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+
+.credentials-hint {
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.credentials-hint p {
+  margin: 4px 0;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.auth-error {
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #dc2626;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.auth-submit {
+  width: 100%;
+}
+
+.auth-register-hint {
+  text-align: center;
+  margin-top: 24px;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+.auth-register-hint a {
+  color: #3b82f6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.auth-register-hint a:hover {
+  text-decoration: underline;
+}
+
+.auth-notice {
+  background-color: #fff7ed;
+  border: 1px solid #fed7aa;
+  border-radius: 8px;
+  padding: 16px;
+  font-size: 13px;
+  color: #9a3412;
+}
+
+.auth-notice p {
+  margin: 6px 0;
+  line-height: 1.5;
+}
+
+[data-theme='dark'] .auth-notice {
+  background-color: #451a03;
+  border-color: #7c2d12;
+  color: #fed7aa;
+}
+
+[data-theme='dark'] .auth-card {
+  background-color: #1f2937;
+}
+
+[data-theme='dark'] .auth-title {
+  color: #f9fafb;
+}
+
+[data-theme='dark'] .auth-subtitle {
+  color: #9ca3af;
+}
+
+[data-theme='dark'] .credentials-hint {
+  background-color: #374151;
+  color: #d1d5db;
+}
+
+[data-theme='dark'] .auth-register-hint {
+  color: #9ca3af;
+}
