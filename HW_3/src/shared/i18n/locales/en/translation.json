@@ -1,0 +1,91 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "loginButton": "Sign In",
+    "registerButton": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "loginPlaceholder": "Enter your login",
+    "passwordPlaceholder": "Enter your password",
+    "emailPlaceholder": "Enter your email",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastNamePlaceholder": "Enter your last name",
+    "demoNotice": "This is a demo application.",
+    "demoNoticeInfo": "Registration is not available. Please use the login page with test credentials:",
+    "demoModeTitle": "Demo Mode - Registration Stub"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "totalProducts": "Total Products",
+    "categories": "Categories",
+    "recentOrders": "Recent Orders"
+  },
+  "products": {
+    "title": "Products",
+    "search": "Search products...",
+    "noProducts": "No products found",
+    "price": "Price",
+    "rating": "Rating",
+    "stock": "Stock",
+    "category": "Category",
+    "brand": "Brand",
+    "description": "Description",
+    "viewDetails": "View Details",
+    "backToProducts": "Back to Products"
+  },
+  "profile": {
+    "title": "Profile",
+    "email": "Email",
+    "username": "Username",
+    "name": "Name",
+    "gender": "Gender"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "pageSize": "Products per page",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "page": "Page",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "invalidCredentials": "Invalid credentials",
+    "networkError": "Network error. Please try again.",
+    "notFound": "Page not found",
+    "unauthorized": "Please log in to continue",
+    "notFoundMessage": "The page you're looking for doesn't exist.",
+    "goToDashboard": "Go to Dashboard"
+  }
+}
